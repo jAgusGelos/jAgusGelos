@@ -20,7 +20,9 @@
 
 ### About Me
 
-Software Engineer with **4+ years** building production SaaS platforms from the ground up. Specialized in serverless AWS architectures, modern fullstack development (React, NestJS, TypeScript), and multi-tenant applications. Experience spans voice AI systems, HR tech, and business intelligence, with focus on scalable solutions handling high transaction volumes.
+Software Engineer with **5+ years** building production SaaS platforms from the ground up. Specialized in serverless AWS architectures, modern fullstack development (React, NestJS, TypeScript), and multi-tenant applications. Experience spans voice AI systems, HR tech, and business intelligence, with focus on scalable solutions handling high transaction volumes.
+
+Lately focused on **AI-governed engineering workflows**: an autonomous nightly PR agent governed by an E2E suite (up to 20 merged PRs/day), LLM eval pipelines for voice-agent testing, and agent tooling like [keel-skills](https://github.com/jAgusGelos/keel-skills), 24 production-grade Claude Code skills covering the full development lifecycle.
 
 Currently working at **Squaduplabs LLC** (Boston, MA) as a Fullstack React + NestJS Developer.
 
@@ -101,6 +103,7 @@ Currently working at **Squaduplabs LLC** (Boston, MA) as a Fullstack React + Nes
 
 ### Key Achievements
 
+- Built an autonomous nightly PR agent governed by an E2E test suite, merging up to **20 PRs/day**, before code agents were mainstream
 - Architected complete SaaS applications with multi-tenant database designs (**20+ entities each**)
 - Engineered web scraping system with proxy rotation for large-scale data extraction
 - Established comprehensive testing reducing production defects by **35%**
